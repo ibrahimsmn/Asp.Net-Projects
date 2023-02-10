@@ -1,0 +1,19 @@
+﻿@model List<NewsVM>
+@foreach (var item in Model)
+{
+    <div class="product__sidebar__comment__item">
+        <div class="card mb-4 text-white bg-dark">
+            <a class="img-card" asp-action="index" asp-controller="news" asp-route-title="@Url.FriendlyUrl(item.Title)" asp-route-id="@item.ID">
+                <img src="~/img/sidebar/@item.ImageURLL" />
+
+                <div class="card-content">
+                    <h4 class="card-title">
+
+                        @item.FrontEndTitle
+
+                    </h4>
+                </div>
+            </a>
+        </div>
+    </div>
+}

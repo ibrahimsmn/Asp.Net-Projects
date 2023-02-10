@@ -1,0 +1,55 @@
+﻿@model (News news,List<Category> categories)
+<br />
+<div class="row">
+    <div class="col-md-6">
+        <div class="card card-primary">
+            <div class="card-header">
+                <h3 class="card-title">Haber Güncelle</h3>
+
+                <div class="card-tools">
+                    <button type="button" class="btn btn-tool" data-card-widget="collapse" data-toggle="tooltip" title="Collapse">
+                        <i class="fas fa-minus"></i>
+                    </button>
+                </div>
+            </div>
+            <div class="card-body">
+                <form method="post" asp-action="editnews" asp-controller="news" asp-area="management">
+                    <div class="form-group">
+                        <label for="inputName">Title</label>
+                        <input type="text" asp-for="news.Title" class="form-control">
+                    </div>
+                    <div class="form-group">
+                        <label for="inputDescription">Description</label>
+                        <input type="text" asp-for="news.Description" class="form-control">
+                    </div>
+                    <div class="form-group">
+                        <label for="inputDescription">Content</label>
+                        <input type="text" asp-for="news.Content" class="form-control">
+                    </div>
+                    <div class="form-group">
+                        <label>Category:</label>
+                        <select class="form-control" asp-for="news.CategoryID" asp-items="@(new SelectList(Model.categories,nameof(Category.Id),nameof(Category.Name)))">
+                </select>  
+                    </div>
+                    <div class="form-group">
+                        <label for="inputDescription">Source</label>
+                        <input type="text" asp-for="news.Source" class="form-control">
+                    </div>
+                    <br />
+                    <div class="col-12">
+                        <input type="hidden" asp-for="news.Id" />
+                        <input type="hidden" asp-for="news.PublishedAt" />
+                        <input type="hidden" asp-for="news.AppUserID" />
+                        <input type="submit" value="Haber Güncelle" class="btn btn-success float-left">
+                    </div>
+                </form>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+
+

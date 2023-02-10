@@ -1,0 +1,30 @@
+﻿@model RoleVM
+
+
+<br />
+<div class="row">
+    <div class="col-md-6">
+        <div class="card card-primary">
+            <div class="card-header">
+                <h3 class="card-title">Add Role Page</h3>
+
+                <div class="card-tools">
+                    <button type="button" class="btn btn-tool" data-card-widget="collapse" data-toggle="tooltip" title="Collapse">
+                        <i class="fas fa-minus"></i>
+                    </button>
+                </div>
+            </div>
+            <div class="card-body">
+                <form method="post" asp-action="addrole" asp-controller="home" asp-area="management">
+                    <div class="form-group">
+                        <span asp-validation-for="Name"></span>
+                        <label for="inputName">Name</label>
+                        <input type="text" asp-for="Name" class="form-control">
+                    </div>
+                    <br />
+                    <div class="col-12">
+
+                        <input type="submit" value="Add Role" class="btn btn-success float-left">
+                    </div>
+                </form>
+                <div asp-validation-summary="ModelOnly"> </div>

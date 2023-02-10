@@ -1,0 +1,62 @@
+﻿@model List<NewsVM>
+@await Component.InvokeAsync("Slider")
+<section class="product spad">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8">
+                <div class="trending__product">
+                    <div class="row">
+                        <div class="col-lg-8 col-md-8 col-sm-8">
+                            <div class="section-title">
+                                <h4>Trending Now</h4>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-4">
+                            <div class="btn__all">
+                                <a href="#" class="primary-btn">View All <span class="arrow_right"></span></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        @foreach (var item in Model)
+                        {
+                            <div class="col-lg-6 col-md-6 col-sm-6">
+                                <div class="card mb-4 text-white bg-dark">
+                                    <a class="img-card" asp-action="index" asp-controller="news" asp-route-title="@Url.FriendlyUrl(item.Title)" asp-route-id="@item.ID">
+                                        <img src="~/img/sidebar/@item.ImageURLL" />
+
+                                        <div class="card-content">
+                                            <h4 class="card-title">
+
+                                                @item.FrontEndTitle
+
+                                            </h4>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        }
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-8">
+                <div class="product__sidebar">
+                    <div class="product__sidebar__view">
+                        <div class="section-title">
+                            <h5>Top Views</h5>
+                        </div>
+                       @await Component.InvokeAsync("TopViews")
+                    </div>
+                    <div class="product__sidebar__comment">
+                        <div class="section-title">
+                            <h5>New Comment</h5>
+                        </div>
+                        @await Component.InvokeAsync("LastComments")
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+

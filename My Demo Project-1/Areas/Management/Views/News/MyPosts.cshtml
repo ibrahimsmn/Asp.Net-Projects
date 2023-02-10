@@ -1,0 +1,52 @@
+﻿@model List<NewsVM>
+<br />
+<br />
+<div class="card">
+    <div class="card-header">
+        <h3 class="card-title">Haber Listesi</h3>
+    </div>
+    <div class="card-body">
+        @if (Model.Count() == 0)
+        {
+            <h1>No News</h1>
+        }
+        else
+        {
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Title</th>
+                        <th>Description</th>
+                        <th>Content</th>
+                        <th>Category</th>
+                        <th>Edit</th>
+                        <th>Delete</th>
+                    </tr>
+                </thead>
+                @foreach (NewsVM item in Model)
+                {
+                    <tr>
+                        <td>@item.Title</td>
+                        <td>@item.Description</td>
+                        <td>@item.Content</td>
+                        <td>@item.Category</td>
+                        <td><a asp-action="editnews" asp-controller="news" asp-area="management" asp-route-id="@item.ID" class="btn btn-primary">Edit</a></td>
+                        <td><a asp-action="deletenews" asp-controller="news" asp-area="management" asp-route-id="@item.ID" class="btn btn-danger">Delete</a></td>
+                    </tr>
+                }
+
+            </table>
+        }
+
+
+    </div>
+</div>
+<br />
+<div class="col-12">
+
+    <a class="btn btn-info btn-sm" asp-action="addnews" asp-controller="news" asp-area="management">
+        <i class="fas fa-pencil-alt">
+        </i>
+        Haber Ekle
+    </a>
+</div>

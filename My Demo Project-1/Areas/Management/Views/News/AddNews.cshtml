@@ -1,0 +1,61 @@
+﻿@model NewsVM
+<br />
+<script src="~/lib/jquery/jquery.min.js"></script>
+<script src="~/lib/jquery-validate/jquery.validate.min.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+<div class="row">
+    <div class="col-md-6">
+        <div class="card card-primary">
+            <div class="card-header">
+                <h3 class="card-title">Hakkımda Ekle</h3>
+
+                <div class="card-tools">
+                    <button type="button" class="btn btn-tool" data-card-widget="collapse" data-toggle="tooltip" title="Collapse">
+                        <i class="fas fa-minus"></i>
+                    </button>
+                </div>
+            </div>
+            <div class="card-body">
+                <form method="post" asp-action="addnews" asp-controller="news" asp-area="management" enctype="multipart/form-data">
+                    <div class="form-group">
+                        <label for="inputName">Title</label>
+                        <input type="text" asp-for="Title" class="form-control">
+                    </div>
+                    <div class="form-group">
+                        <label for="inputDescription">ImageURL</label>
+                        <input  asp-for="ImageURL" class="form-control">
+                    </div>
+                    <div class="form-group">
+                        <label>Category:</label>
+                        <select class="form-control" asp-for="CatergoryID" asp-items="@(new SelectList(ViewBag.Categories,nameof(Category.Id),nameof(Category.Name)))">
+                </select>  
+                    </div>
+                    <div class="form-group">
+                        <label for="inputDescription">Description</label>
+                        <input type="text" asp-for="Description" class="form-control">
+                    </div>
+                    <div class="form-group">
+                        <label for="inputDescription">Content</label>
+                        <textarea  rows="50" asp-for="Content" class="form-control"></textarea>
+                    </div>
+                   
+                    <div class="form-group">
+                        <label for="inputDescription">Source</label>
+                        <input type="text" asp-for="Source" class="form-control">
+                    </div>
+                    <br />
+                    <div class="col-12">
+
+                        <input type="submit" value="Add Information" class="btn btn-success float-left">
+                    </div>
+                </form>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+
+

@@ -1,0 +1,55 @@
+﻿<header class="header">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-2">
+                <div class="header__logo">
+                    <a asp-action="index" asp-controller="home">
+                        <img src="~/img/logo.png" alt="">
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-8">
+                <div class="header__nav">
+                    <nav class="header__menu mobile-menu">
+                        <ul>
+                            <li class="active"><a asp-action="index" asp-controller="home">Homepage</a></li>
+                            <li>
+                                <a href="/home/index">Categories <span class="arrow_carrot-down"></span></a>
+                                <ul class="dropdown">
+                                    <li><a asp-action="category" asp-controller="news" asp-route-name="yazılım">YAZILIM</a></li>
+                                    <li><a asp-action="category" asp-controller="news" asp-route-name="oyun">OYUN</a></li>
+                                    <li><a asp-action="category" asp-controller="news" asp-route-name="kripto">KRİPTO PARA</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="./blog.html">Our Blog</a></li>
+                            <li><a asp-action="Contact" asp-controller="home">Contacts</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+            <div class="col-lg-2">
+                <div class="header__right">
+
+                    @if (!User.Identity.IsAuthenticated)
+                    {
+
+
+                        <a asp-action="index" asp-controller="auth"><img src="~/img/profile/defaulphoto2.png" class="profile" style="margin-right:5px" />Giriş Yap</a>
+
+                    }
+
+                    else
+                    {
+
+                        <a asp-action="signout" asp-controller="auth"><img src="~/img/defaulphoto2.png" class="profile" style="margin-right:5px" />Çıkış Yap</a>
+
+                    }
+
+
+                </div>
+            </div>
+
+        </div>
+        <div id="mobile-menu-wrap"></div>
+    </div>
+</header>

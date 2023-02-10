@@ -1,0 +1,358 @@
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\appsettings.json
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\GameNews.exe
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\GameNews.deps.json
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\GameNews.runtimeconfig.json
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\GameNews.runtimeconfig.dev.json
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\GameNews.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\GameNews.pdb
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\GameNews.Views.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\GameNews.Views.pdb
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\GameNews.csproj.AssemblyReference.cache
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\GameNews.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\GameNews.AssemblyInfoInputs.cache
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\GameNews.AssemblyInfo.cs
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\GameNews.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\GameNews.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\GameNews.RazorAssemblyInfo.cache
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\GameNews.RazorAssemblyInfo.cs
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\scopedcss\bundle\GameNews.styles.css
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\staticwebassets\GameNews.StaticWebAssets.Manifest.cache
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\GameNews.TagHelpers.input.cache
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\GameNews.TagHelpers.output.cache
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\GameNews.RazorCoreGenerate.cache
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\GameNews.RazorTargetAssemblyInfo.cache
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\GameNews.RazorTargetAssemblyInfo.cs
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\GameNews.Views.pdb
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\GameNews.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\refint\GameNews.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\GameNews.pdb
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\GameNews.genruntimeconfig.cache
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\ref\GameNews.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\GameNews.csproj.CopyComplete
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\Razor\Views\Partials\_NavbarPartial.cshtml.g.cs
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\Razor\Views\Auth\Index.cshtml.g.cs
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\Razor\Views\Partials\_SliderPartial.cshtml.g.cs
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\Razor\Views\Partials\_FooterPartial.cshtml.g.cs
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\Razor\Views\Auth\Register.cshtml.g.cs
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\GameNews.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\libman.json
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\Razor\Areas\Management\Views\Home\Index.cshtml.g.cs
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\Razor\Areas\Management\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\Razor\Areas\Management\Views\_ViewStart.cshtml.g.cs
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\Razor\Areas\Management\Views\_ViewImports.cshtml.g.cs
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\Razor\Areas\Management\Views\News\Index.cshtml.g.cs
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\Razor\Areas\Management\Views\News\EditNews.cshtml.g.cs
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\Razor\Areas\Management\Views\Home\AddRole.cshtml.g.cs
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\Razor\Views\News\Index.cshtml.g.cs
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\Razor\Areas\Management\Views\News\MyPosts.cshtml.g.cs
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\Razor\Areas\Management\Views\News\AddNews.cshtml.g.cs
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\Razor\Views\News\Category.cshtml.g.cs
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\Razor\Areas\Management\Views\Category\Index.cshtml.g.cs
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\Razor\Views\Shared\Components\Navbar\Default.cshtml.g.cs
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\Razor\Views\Shared\Components\Comment\Default.cshtml.g.cs
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\Razor\Views\Shared\Components\LastComments\Default.cshtml.g.cs
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\Razor\Views\Shared\Components\TopViews\Default.cshtml.g.cs
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\Razor\Views\Shared\Components\Slider\Default.cshtml.g.cs
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\Razor\Areas\Management\Views\Home\RoleAssign.cshtml.g.cs
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\Razor\Areas\Management\Views\Shared\Components\SideBar\Default.cshtml.g.cs
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\Razor\Areas\Management\Views\Home\Roles.cshtml.g.cs
+C:\Users\ibrahim\Desktop\ASPNET MVC5 CV Sitesi\MuratYucedag\GameNews\obj\Debug\net5.0\Razor\Views\Home\Error.cshtml.g.cs
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\appsettings.json
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\libman.json
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\GameNews.exe
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\GameNews.deps.json
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\GameNews.runtimeconfig.json
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\GameNews.runtimeconfig.dev.json
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\GameNews.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\GameNews.pdb
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\GameNews.Views.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\GameNews.Views.pdb
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ibrahim\Desktop\GameNews\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\GameNews.csproj.AssemblyReference.cache
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\GameNews.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\GameNews.AssemblyInfoInputs.cache
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\GameNews.AssemblyInfo.cs
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\GameNews.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\GameNews.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\GameNews.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\GameNews.RazorAssemblyInfo.cache
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\GameNews.RazorAssemblyInfo.cs
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\scopedcss\bundle\GameNews.styles.css
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\staticwebassets\GameNews.StaticWebAssets.Manifest.cache
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\GameNews.TagHelpers.input.cache
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\GameNews.TagHelpers.output.cache
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\GameNews.RazorCoreGenerate.cache
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\Razor\Areas\Management\Views\Category\Index.cshtml.g.cs
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\Razor\Areas\Management\Views\Home\AddRole.cshtml.g.cs
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\Razor\Areas\Management\Views\Home\Index.cshtml.g.cs
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\Razor\Areas\Management\Views\Home\RoleAssign.cshtml.g.cs
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\Razor\Areas\Management\Views\Home\Roles.cshtml.g.cs
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\Razor\Areas\Management\Views\News\AddNews.cshtml.g.cs
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\Razor\Areas\Management\Views\News\EditNews.cshtml.g.cs
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\Razor\Areas\Management\Views\News\Index.cshtml.g.cs
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\Razor\Areas\Management\Views\News\MyPosts.cshtml.g.cs
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\Razor\Areas\Management\Views\Shared\Components\SideBar\Default.cshtml.g.cs
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\Razor\Areas\Management\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\Razor\Areas\Management\Views\_ViewImports.cshtml.g.cs
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\Razor\Areas\Management\Views\_ViewStart.cshtml.g.cs
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\Razor\Views\Auth\Index.cshtml.g.cs
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\Razor\Views\Auth\Register.cshtml.g.cs
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\Razor\Views\Home\Error.cshtml.g.cs
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\Razor\Views\News\Category.cshtml.g.cs
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\Razor\Views\News\Index.cshtml.g.cs
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\Razor\Views\Partials\_FooterPartial.cshtml.g.cs
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\Razor\Views\Partials\_NavbarPartial.cshtml.g.cs
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\Razor\Views\Partials\_SliderPartial.cshtml.g.cs
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\Razor\Views\Shared\Components\Comment\Default.cshtml.g.cs
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\Razor\Views\Shared\Components\LastComments\Default.cshtml.g.cs
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\Razor\Views\Shared\Components\Navbar\Default.cshtml.g.cs
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\Razor\Views\Shared\Components\Slider\Default.cshtml.g.cs
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\Razor\Views\Shared\Components\TopViews\Default.cshtml.g.cs
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\GameNews.RazorTargetAssemblyInfo.cache
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\GameNews.RazorTargetAssemblyInfo.cs
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\GameNews.Views.pdb
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\GameNews.csproj.CopyComplete
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\GameNews.dll
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\refint\GameNews.dll
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\GameNews.pdb
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\GameNews.genruntimeconfig.cache
+C:\Users\ibrahim\Desktop\GameNews\obj\Debug\net5.0\ref\GameNews.dll
